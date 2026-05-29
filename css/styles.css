@@ -1,0 +1,17 @@
+h1{
+background: rgb(255, 0, 0);
+text-align:center;
+}
+body{
+    background: rgb(86, 84, 84);
+    color: white;
+    background-image: url("../images/repeated-square-dark.png");
+    background-repeat: repeat;
+}
+img{
+   
+}
+h2{
+    text-align:center;
+    border-bottom: 3px solid black;
+}
